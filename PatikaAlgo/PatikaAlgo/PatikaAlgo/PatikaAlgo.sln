@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaAlgo", "PatikaAlgo\PatikaAlgo.csproj", "{5E4AD5EF-800A-445D-8094-2E191E83599A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E4AD5EF-800A-445D-8094-2E191E83599A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4AD5EF-800A-445D-8094-2E191E83599A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4AD5EF-800A-445D-8094-2E191E83599A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4AD5EF-800A-445D-8094-2E191E83599A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9D9AE75-446F-45A4-AFF3-E701C06682A9}
+	EndGlobalSection
+EndGlobal
